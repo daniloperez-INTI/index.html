@@ -32,7 +32,7 @@
 
 <script>
   // ⚠️ REEMPLAZA ESTA URL CON LA DE TU APPS SCRIPT
-  var APPS_SCRIPT_URL = 'TU_URL_AQUI';
+  var APPS_SCRIPT_URL = https://script.google.com/a/macros/clases.edu.sv/s/AKfycbwMiDTo7Qz40tUMjkhLkg-1SrghvkarqrPmwzqC7dzsdjyDHevQDoQZvp2tp03T8gKWYA/exec;
 
   var html5Qrcode = null;
   var procesando = false;
